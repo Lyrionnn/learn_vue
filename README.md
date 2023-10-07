@@ -30,3 +30,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 学习vue 测试
 
 Creating a branch
+Creating a new branch is quick AND simple.
