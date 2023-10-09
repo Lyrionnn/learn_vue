@@ -32,3 +32,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 Creating a branch
 
 Creating a new  branch is quick and simple.
+
+分支管理策略
